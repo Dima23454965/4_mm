@@ -10,3 +10,4 @@ strcounter('fckjreee')
 
 print(10)
 print(3441223)
+print(213)
